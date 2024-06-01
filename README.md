@@ -1,7 +1,7 @@
 # Used-Car-Price-Prediction
 
 I have used the dataset of used cars from the German market which I got from Kaggle. The data is scraped from popular European online car marketplace AutoScout24.The dataset includes used cars from 1995 to 2023. The dataset has information about approximately 250,000 automobiles.  The dataset has the following features:
-➢	Brand: The brand or manufacturer of the car.
+➢#	Brand: The brand or manufacturer of the car.
 ➢	Model: The specific model of the car.
 ➢	Color: The color of the car's exterior.
 ➢	Registration Date: The date when the car was registered (Month/Year).
